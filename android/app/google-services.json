@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "622123599266",
+    "firebase_url": "https://flutter-varios-3d5dd-default-rtdb.firebaseio.com",
+    "project_id": "flutter-varios-3d5dd",
+    "storage_bucket": "flutter-varios-3d5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622123599266:android:32fab434583eab2018defb",
+        "android_client_info": {
+          "package_name": "com.yeissonochoavilla.fl_notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIK09MNCA74aoaQDsPFnaGVs6Gxaql4bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
